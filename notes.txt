@@ -1,1 +1,2 @@
+echo "This is my notes file." > notes.txt
 
